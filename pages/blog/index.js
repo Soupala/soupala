@@ -4,6 +4,11 @@
  * Copyright (c) Konstantin Tarkus (@koistya) | MIT license
  */
 
+ /**
+  * Modified by Mica Cardillo
+  * adding in react-grid-layout
+  */
+
 import React, { Component } from 'react';
 
 export default class extends Component {
